@@ -1,0 +1,15 @@
+/*
+ * 3dcart default styles.
+ */
+
+.3dcart-wrap {
+	margin: 0 auto;
+	max-width: 1080px;
+}
+
+.3dcart-box {
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 6px;
+	padding: 24px;
+}
